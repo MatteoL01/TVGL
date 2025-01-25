@@ -5,7 +5,7 @@ https://arxiv.org/abs/1703.01958
 
 # Download
 ```
-git clone https://github.com/ams129/TVGL.git
+git clone https://github.com/MatteoL01/TVGL.git
 ```
 
 # Usage
